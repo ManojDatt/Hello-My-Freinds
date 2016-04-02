@@ -1,5 +1,5 @@
 # Hello-My-Freinds
-This my first Repository On GitHub
+This is my first Repository On GitHub
 
 I am manoj datt ,
 my life dream was to be a good person..but now i added one aditional quality in my dream that is to be a good Ruby On Rails Programmer
