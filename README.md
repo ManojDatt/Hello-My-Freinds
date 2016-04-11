@@ -1,4 +1,4 @@
-# Hello-My-Freinds
-This is my first Repository On GitHub
+# Hello Freinds
+Like-Unlike in Rails
 
 
